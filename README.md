@@ -1,5 +1,6 @@
 ## Retail AI Platform
 Live Demo: https://retail-ai-platform.streamlit.app/ 
+
 A modular GenAI system for chatbot‑based product search, recommendations, forecasting, and retail assistance.
 
 ```
@@ -71,12 +72,5 @@ Launch the app:
 streamlit run app/app.py
 
 
-Data
-products.csv
-- product_id, name, category, brand, price, description
-sales.csv
-- date, product_id, units_sold
-customers.csv
-- customer_id, segment, preferences
 
 
