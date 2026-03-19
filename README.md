@@ -1,7 +1,9 @@
 ## Retail AI Platform
-Live Demo: https://retail-ai-platform.streamlit.app/ 
 
-A modular GenAI system for chatbot‑based product search, recommendations, forecasting, and retail assistance.
+Live Demo (BootChat): https://bootchat.streamlit.app/
+
+A modular GenAI system for chatbot‑powered product search, recommendations, forecasting, and retail assistance.
+
 
 ```
 Example Queries
